@@ -1,6 +1,7 @@
 ## Impossible prompt challenge
 
 Initial tweet: https://x.com/VictorTaelin/status/1776677635491344744
+
 Gist: https://gist.github.com/VictorTaelin/e514844f4df9e5f182b28e5a07e44b17
 
 ## Prompt
