@@ -1,0 +1,18 @@
+{
+  "name": "impossible-prompt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "llm-api": "^1.5.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.2"
+  }
+}
